@@ -1,0 +1,7 @@
+py -3.14 manage.py runserver
+py -3.14 manage.py makemigrations
+py -3.14 manage.py migrate
+py -3.14 manage.py startapp ("имя")
+
+
+.\manage.py
